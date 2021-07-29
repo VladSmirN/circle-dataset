@@ -1,0 +1,5 @@
+classes= 1
+train  = /content/darknet/circle-dataset/train.txt
+valid  = /content/darknet/circle-dataset/valid.txt
+names = /content/darknet/circle-dataset/obj.names
+backup = backup/
